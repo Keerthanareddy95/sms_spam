@@ -4,4 +4,4 @@
 
 📑📊Dataset = https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 spam mail dectection
-new method of detections
+new method of detections in mail
